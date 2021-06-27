@@ -13,3 +13,5 @@ I have done a lot of Feature engineering and applied various model to find the b
 - Sweetviz
 - Feature Engineering
 - Scikit learn
+
+This dataset is been taken from a competition happened on HakerEarth.
